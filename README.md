@@ -15,7 +15,17 @@ Inspired by [ricardozanini/ldap-users-sync](https://github.com/ricardozanini/lda
 * scheduling is possible (using WP-Cron)
 
 ## Installation
-Clone into wp-content/plugins/ldap-user-sync:
+### GitHub Updater
+This plugin is compatible with [GitHub Updater](https://github.com/afragen/github-updater).
+
+Install it by copying the GitHub URL and pasting it under Settings -> GitHub Updater -> Install plugin.
+
+### Manual
+1. Download the latest ZIP using "Clone or download" -> Downloap ZIP
+2. Unzip it into `wp-content/plugins/ldap-user-sync`
+
+### Git
+Clone into `wp-content/plugins/ldap-user-sync`:
 
 ````
 git clone https://github.com/ck-ws/ldap-user-sync wp-content/plugins/ldap-user-sync
