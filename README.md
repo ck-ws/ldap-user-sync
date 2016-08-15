@@ -1,4 +1,4 @@
-# LDAP User Sync for Wordpress
+# LDAP User Sync for WordPress
 
 This is a WordPress plugin to synchronize user accounts from a LDAP directory to your WordPress user database.
 
